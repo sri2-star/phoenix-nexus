@@ -1,16 +1,172 @@
-# React + Vite
+# 🔥 Phoenix Nexus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
 
-Currently, two official plugins are available:
+### Official AIML Club Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A futuristic, modern, and responsive website built for **Phoenix Nexus**, the official AIML Club.
 
-## React Compiler
+🌐 **Live Website:** https://phoenix-nexus-seven.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+</div>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📖 About
+
+Phoenix Nexus is the official Artificial Intelligence and Machine Learning (AIML) club that encourages innovation, collaboration, technical growth, creativity, and leadership among students.
+
+This website serves as the club's digital platform where students can
+
+- Learn about the club
+- Explore different domains
+- View events
+- Meet the team
+- Apply for recruitment
+- Stay connected with Phoenix Nexus
+
+---
+
+## ✨ Features
+
+- 🚀 Modern Futuristic UI
+- 🎨 Glassmorphism Design
+- 🌌 Animated Background Effects
+- ⚡ Smooth Scroll Animations
+- 📱 Fully Responsive
+- 💎 Premium Hero Section
+- 🎯 Interactive Cards
+- ✨ Hover & Glow Effects
+- 🔥 Modern Navigation Bar
+- 📊 Statistics Section
+- 👥 Team Section
+- 📅 Events Showcase
+- ❓ FAQ Section
+- 📩 Recruitment Section
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+- Lucide React
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+│
+├── assets/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Domains.jsx
+│   ├── Events.jsx
+│   ├── Team.jsx
+│   ├── WhyJoin.jsx
+│   ├── Stats.jsx
+│   ├── FAQ.jsx
+│   ├── JoinUs.jsx
+│   └── Footer.jsx
+│
+├── pages/
+│   └── Home.jsx
+│
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/sri2-star/phoenix-nexus.git
+```
+
+Go into the project
+
+```bash
+cd phoenix-nexus
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 🌐 Live Demo
+
+👉 https://phoenix-nexus-seven.vercel.app/
+
+---
+
+## 📸 Preview
+
+_Add a screenshot of your homepage here._
+
+Example:
+
+```
+public/
+   preview.png
+```
+
+Then include
+
+```md
+![Phoenix Nexus](public/preview.png)
+```
+
+or upload the image directly into GitHub by dragging it into the README.
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+Fork the repository and submit a Pull Request.
+
+---
+
+## 👨‍💻 Developed By
+
+**Sri Nithi**
+
+GitHub: https://github.com/sri2-star
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, don't forget to star the repository!
+
+Made with ❤️ for Phoenix Nexus
+
+</div>
